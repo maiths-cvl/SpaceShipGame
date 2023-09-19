@@ -1,0 +1,6 @@
+un petit vaisseau spacial
+bouge de droite a gauche
+tire des projectiles comme dans starwars
+les planettes apparaissent et descendent vers le bas de l'écran
+le but est de détruire ces planettes
+chaque planette rapporte des points et a chaque fois que le joueur en rate il perd de la vie
